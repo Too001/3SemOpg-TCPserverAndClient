@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "opg4-tcpserver", "opg4-tcpserver.csproj", "{2027C7DE-64CD-4D37-8527-D21225138F5A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2027C7DE-64CD-4D37-8527-D21225138F5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2027C7DE-64CD-4D37-8527-D21225138F5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2027C7DE-64CD-4D37-8527-D21225138F5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2027C7DE-64CD-4D37-8527-D21225138F5A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E12DEE7C-A508-4D38-9FCD-B8021C4E7C2D}
+	EndGlobalSection
+EndGlobal
